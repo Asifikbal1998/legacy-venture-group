@@ -1,0 +1,15 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+wp-config.php
+.htaccess
+
+# Ignore local server files
+/error_log
+*.log
+
+# Ignore OS and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
