@@ -1,15 +1,15 @@
-# Ignore WordPress core files
+# Core WordPress files
 /wp-admin/
 /wp-includes/
-/wp-content/uploads/
+
+# Uploads directory (optional)
+wp-content/uploads/
+
+# Sensitive files
 wp-config.php
 .htaccess
 
-# Ignore local server files
-/error_log
+# Temporary or system files
 *.log
-
-# Ignore OS and IDE-specific files
 .DS_Store
 Thumbs.db
-.vscode/

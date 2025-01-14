@@ -378,7 +378,7 @@ get_header();
             <?php the_field('blog_content', 20); ?>
         </div>
         <div class="articles">
-            <!-- Post -->
+            <!-- Post article-->
             <?php
             $Services = new WP_Query(array(
                 'post_type'            => 'post',
