@@ -147,7 +147,6 @@ get_header();
 
             <div class="swiper-button-next swiper-navBtn"></div>
             <div class="swiper-button-prev swiper-navBtn"></div>
-            <!-- <div class="swiper-pagination"></div> -->
         </div>
     </div>
 </section>
@@ -219,131 +218,12 @@ get_header();
                                 </div>
                             </div>
                         <?php }  ?>
-                        <!-- <button class="zbtn zbtn-gradient-color btn-grow-bigger mt-5" data-aos="fade-up"
-                            data-aos-delay="800">View More </button> -->
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-<!-- ======= testomonial Section ======= -->
-<!-- <section class="testomonial">
-    <div class="container">
-        <div class="heading-area">
-            <?php the_field('testimonials_content', 20); ?>
-        </div>
-        <div class="slide-container swiper">
-            <div class="slide-content">
-                <div class="card-wrapper swiper-wrapper">
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card swiper-slide">
-                        <div class="card-content">
-                            <p class="description">Ready to embark on a rewarding entrepreneurial journey? Join
-                                Future State and be part of a legacy of success. Contact us to learn more about
-                                franchise opportunities, investment details, </p>
-                            <div class="mt-5">
-                                <img src="images/pimage.png" alt="" class="card-img">
-                                <div class="percont">
-                                    <h2 class="name">David Dell</h2>
-                                    <h6>Client</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="swiper-button-next swiper-navBtn"></div>
-            <div class="swiper-button-prev swiper-navBtn"></div>
-            <div class="swiper-pagination"></div>
-        </div>
-    </div>
-</section> -->
 
 <!-- ======= contact us Section ======= -->
 <section class="contact-usfrom">
