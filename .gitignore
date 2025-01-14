@@ -2,8 +2,12 @@
 /wp-admin/
 /wp-includes/
 
+
 # Uploads directory (optional)
 wp-content/uploads/
+/wp-content/wpvivid_staging/
+/wp-content/wpvivid_uploads/
+/wp-content/wpvividbackups/
 
 # Sensitive files
 wp-config.php
